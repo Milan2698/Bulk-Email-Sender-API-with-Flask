@@ -18,7 +18,9 @@ Easy-to-use Flask API: Interact with the API through a straightforward user inte
 Clone the repository to your local machine.
 
 create virtual env: 'py -m venv env'.
+
 activate env: '.\env\Scripts\activate'.
+
 Install the required dependencies using pip install -r requirements.txt.
 
 Ensure you have Python 3.x installed on your system.
